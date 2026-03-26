@@ -60,13 +60,6 @@ Publicly available global renewable energy datasets (e.g., government or interna
 
 ![Dashboard Preview](project_photo.png)
 
----
-
-## 🔗 Live Dashboard (Optional)
-
-If published on Tableau Public:
-
-👉 https://public.tableau.com/app/profile/your-profile
 
 ---
 
